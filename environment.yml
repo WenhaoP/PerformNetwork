@@ -1,6 +1,5 @@
 name: PerformNetwork
 channels:
-  - conda-forge
   - defaults
 dependencies:
   - python
